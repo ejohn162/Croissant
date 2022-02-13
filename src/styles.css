@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align:center;
+}
+footer {
+    text-align:center;
+    display:block;
+    
+}
+body{
+    background:#89D0EF;
+}
+footer a{
+    margin: 0 10px;
+    color:#0047AB;
+}
+.croissant-pic {
+    display:block;
+    margin:30px auto;
+    
+    
+}
